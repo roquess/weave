@@ -1,8 +1,8 @@
-# waeve
+# loki_weave
 
-**waeve** is a Rust library for parsing, normalizing, and formatting structured data across multiple formats.
+**loki_weave** is a Rust library for parsing, normalizing, and formatting structured data across multiple formats.
 
-[![crates.io](https://img.shields.io/crates/v/weave)](https://crates.io/crates/weave)
+[![crates.io](https://img.shields.io/crates/v/loki_weave)](https://crates.io/crates/loki_weave)
 
 It provides a unified abstraction to render data into common formats such as JSON, YAML, TOML, XML, and others, while keeping a consistent and extensible API.
 
